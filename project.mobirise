@@ -9,7 +9,7 @@
       "title": "PurityM",
       "styling": {}
     },
-    "uniqCompNum": 50
+    "uniqCompNum": 51
   },
   "pages": {
     "index.html": {
@@ -98,18 +98,28 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#testimonials1-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-2\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
         },
         {
+          "_inherit": "msg-box5",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content4",
-          "_anchor": "content4-a",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-o",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": "31",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -118,19 +128,39 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showTitles": true,
-            "showCaptions": true
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
           },
-          "title1": "Section 1",
-          "caption1": "Time to buy some new clubs A scratch golfer, Taking a practice swing, 3-iron comes out, Brassie Completely missed the ball, oops! You skied it! Taking a practice swing.",
-          "title2": "Section 2",
-          "caption2": "Good break! Chip in Condor Score an eagle Niblick You got the yips.",
-          "title3": "Section 3",
-          "caption3": "And lose your mind, And shank it. Chip and run Struck by lightning at Devil's Thumb. Fried egg Weak grip Losing your ball in the rough, Ostrich Score a double bogey You skied it!",
-          "title4": "Section 4",
-          "caption4": "While heckling your opponent, Pulled to the left Scoring a golden ferret from the bunker, Waggle your hips and swing Arnold Palmer Out of anger Use your Lob Wedge."
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/7-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>An exceptional golfing experience.</i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Rated <i>2nd Best Course to Play </i>in Western Colorado - Colorado Avid Golfer</span><br></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Chosen <i>6th Best Course to Play</i> in the state of Colorado - Golf Weekly</span></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Picked <i>3rd Best Course to Play </i>in Colorado - GolfAdvisor.com</span></li></ul><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
         },
         {
           "alias": "purity/components",
@@ -245,71 +275,6 @@
           "title4": "Tee Times",
           "caption4": "<i>Book Online</i>",
           "button4": " <a data-app-btn=\"true\" href=\"book-a-tee-time.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Schedule Time</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            ".lead P": {
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box4-o",
-          "_params": {
-            "imageSize": "31",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7-1400x935.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<i>An exceptional golfing experience.</i>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Rated <i>2nd Best Course to Play </i>in Western Colorado - Colorado Avid Golfer</span><br></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Chosen <i>6th Best Course to Play</i> in the state of Colorado - Golf Weekly</span></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Picked <i>3rd Best Course to Play </i>in Colorado - GolfAdvisor.com</span></li></ul><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
         },
         {
           "alias": "purity/components",
