@@ -95,7 +95,7 @@
           },
           "title": "Devil's Thumb<br>Golf Course<br>",
           "text": "An 18-hole, prarie-style course designed by Rick Phelps.<br>Located in Delta, the Heart of the Western Colorado.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-o\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-2\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-o\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"book-a-tee-time.html\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
         },
         {
           "_inherit": "msg-box5",
