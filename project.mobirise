@@ -1,0 +1,1609 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.7.3",
+    "versionPublish": "3.11.1",
+    "name": "Devil's Thumb Golf Course",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "uniqCompNum": 50
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "index-menu-0",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#fff8e0"
+            },
+            "P": {
+              "color": "#fbf2be"
+            }
+          },
+          "_anchor": "index-header4-0",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13-esmin-2000x1335.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Devil's Thumb<br>Golf Course<br>",
+          "text": "An 18-hole, prarie-style course designed by Rick Phelps.<br>Located in Delta, the Heart of the Western Colorado.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#testimonials1-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-2\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "Section 1",
+          "caption1": "Time to buy some new clubs A scratch golfer, Taking a practice swing, 3-iron comes out, Brassie Completely missed the ball, oops! You skied it! Taking a practice swing.",
+          "title2": "Section 2",
+          "caption2": "Good break! Chip in Condor Score an eagle Niblick You got the yips.",
+          "title3": "Section 3",
+          "caption3": "And lose your mind, And shank it. Chip and run Struck by lightning at Devil's Thumb. Fried egg Weak grip Losing your ball in the rough, Ostrich Score a double bogey You skied it!",
+          "title4": "Section 4",
+          "caption4": "While heckling your opponent, Pulled to the left Scoring a golden ferret from the bunker, Waggle your hips and swing Arnold Palmer Out of anger Use your Lob Wedge."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-q",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-0166-e-2000x1333.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#dddddd",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Memberships<br>",
+          "caption1": "<i>Join the Devil's Thumb Golf Club</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Elite Club, Elite Perks</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/8-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Rates<br>",
+          "caption2": "<i>Course &amp; Range Fees</i>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">See Rates</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/11e-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Bar &amp; Grill",
+          "caption3": "<i>Contact Us</i>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Visit the Grill</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-0186-e-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Tee Times",
+          "caption4": "<i>Book Online</i>",
+          "button4": " <a data-app-btn=\"true\" href=\"book-a-tee-time.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Schedule Time</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-o",
+          "_params": {
+            "imageSize": "31",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/7-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<i>An exceptional golfing experience.</i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Rated <i>2nd Best Course to Play </i>in Western Colorado - Colorado Avid Golfer</span><br></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Chosen <i>6th Best Course to Play</i> in the state of Colorado - Golf Weekly</span></li><li><span style=\"font-size: 1.25rem; line-height: 1.5;\">Picked <i>3rd Best Course to Play </i>in Colorado - GolfAdvisor.com</span></li></ul><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/billionphotos-2000x1333.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"book-a-tee-time.html\" data-toolbar=\"-mbrBtnMove\">Book Online</a>",
+          "title": "Book a Tee Time",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
+        },
+        {
+          "items": [
+            {
+              "text": "<i>Fantastic course with great views of Colorado scenery. Lots of elevation changes , risk-reward shots and distracting scenery. Greens were fast and were difficult to read.</i>",
+              "authorName": "<a href=\"https://www.facebook.com/rxlarryd\" target=\"_blank\">Larry Dolph</a>",
+              "authorBio": "Facebook&nbsp;"
+            },
+            {
+              "text": "<i>Amazing conditions, the course is in great shape, I definitely recommend it!</i>",
+              "authorName": "<a href=\"https://www.facebook.com/jeffery.hawkins09\" target=\"_blank\">Derek Hodgin</a>",
+              "authorBio": "Facebook"
+            },
+            {
+              "text": "<i>Devils Thumb is one of favorite courses. The people are so friendly and the pro shop has a lot of goodies for both men and women. The yearly couple's tournament is a must. Fun, fun , fun.</i>",
+              "authorName": "<a href=\"https://www.facebook.com/valerieknightlaroche\" target=\"_blank\">Valerie Knight LaRoche</a>",
+              "authorBio": "Facebook"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<i>Fantastic course with great views of Colorado scenery. Lots of elevation changes , risk-reward shots and distracting scenery. Greens were fast and were difficult to read.</i>",
+              "authorName": "<a href=\"https://www.facebook.com/rxlarryd\" target=\"_blank\">Larry Dolph</a>",
+              "authorBio": "Facebook&nbsp;"
+            },
+            {
+              "text": "<i>Amazing conditions, the course is in great shape, I definitely recommend it!</i>",
+              "authorName": "<a href=\"https://www.facebook.com/jeffery.hawkins09\" target=\"_blank\">Derek Hodgin</a>",
+              "authorBio": "Facebook"
+            },
+            {
+              "text": "<i>Devils Thumb is one of favorite courses. The people are so friendly and the pro shop has a lot of goodies for both men and women. The yearly couple's tournament is a must. Fun, fun , fun.</i>",
+              "authorName": "<a href=\"https://www.facebook.com/valerieknightlaroche\" target=\"_blank\">Valerie Knight LaRoche</a>",
+              "authorBio": "Facebook"
+            }
+          ],
+          "_anchor": "testimonials1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "What Our Fans Say"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-2000x1333.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0166-e-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0166-e-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1335-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1335.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/11e-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11e-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0186-e-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0186-e-2000x1333.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#efefef",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-b",
+          "_params": {
+            "googleMap": {
+              "address": "Devil's Thumb Golf Course\nDelta, CO 81416",
+              "placeId": "ChIJFZ_KeKNMR4cR_KkDSfzWR_0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-7",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    },
+    "course-photos.html": {
+      "settings": {
+        "title": "Course Photos - Devil's Thumb Golf Course in Delta, Colorado"
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-2000x1500.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1333.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-f",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-c",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    },
+    "book-a-tee-time.html": {
+      "settings": {
+        "title": "Book a Tee Time at Devil's Thumb Golf Course in Delta, Colorado"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Book a Tee Time",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>[IFRAME]</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-g",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    },
+    "rates.html": {
+      "settings": {},
+      "components": [
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-s",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fff8e0"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Premier Course<br>Competitive Prices",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>All rates are peak season rates (May-September). Rates may change during the off season.<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">Devil’s Thumb offers the lowest prices in the area making it the best value in the region. Tee times can be booked 5 days in advance by <a href=\"book-a-tee-time.html\">clicking here</a> or calling (970) 874-6262.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-x",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": false,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Regular Rates (Walking)",
+          "currency1": "",
+          "price1": "9 Hole / <b>18 Hole</b><br>",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Weekday Monday – Thursday<br>$20 / &nbsp;<b>$33</b></li><li class=\"list-group-item\">Weekend Friday – Sunday<br>$25 /<b> $43</b></li><li class=\"list-group-item\">Juniors Anytime<br>$5 /<b> $10</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "Cart Fees<br>",
+          "currency2": "",
+          "price2": "9 Hole / <b>18 Hole</b><br>$10 / <b>$16</b>",
+          "period2": "per day<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>All drivers must be 18 or older &nbsp;to operate a cart.</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Weekly Specials",
+          "currency3": "$",
+          "price3": "30",
+          "period3": "per special",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Senior Men’s Monday<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Cart included &nbsp; &nbsp; &nbsp;</b></li><li class=\"list-group-item\"><b>Range &amp; Lunch Tuesday &nbsp; &nbsp; &nbsp;</b></li><li class=\"list-group-item\"><b>Foursome Wednesday<br>Cart included &nbsp; &nbsp; &nbsp;</b></li><li class=\"list-group-item\"><b>Ladies Day Thursday<br>Cart included &nbsp; &nbsp; &nbsp;</b></li><li class=\"list-group-item\"><b>Family Night Friday<br>After 5pm, 9 holes ONLY<br>(May-Sept.)</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "Range Fees",
+          "currency4": "$",
+          "price4": "6",
+          "period4": "per token<br>45 - 50 balls per token<br>",
+          "list4": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    },
+    "memberships.html": {
+      "settings": {},
+      "components": [
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-10",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fff8e0"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Elite Memberships<br>Exclusive Perks",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Whether you have been golfing your entire life or have just begun to appreciate the game, Devil’s Thumb offers a pass option that suits you. Our beautiful course and friendly staff ensure our pass holders will enjoy bringing guests out for a drink, as well as perfecting their game.</p><p>We encourage you to request a tour of our facility and welcome any questions you may have. For additional information about pricing and our application process, please contact us at (970) 874-6262 or golf@cityofdelta.net. We look forward to hearing from you or seeing you on the course!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-success",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Silver Pass, Singles",
+          "currency1": "$",
+          "price1": "9,00",
+          "period1": "per year",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li></ul><p></p><p>Range Fees</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "Gold Pass, Singles",
+          "currency2": "$",
+          "price2": "1,500",
+          "period2": "peryear",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li><li class=\"list-group-item\">Cart Fees</li><li class=\"list-group-item\">Range Fees</li><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Silver Pass, Couples",
+          "currency3": "$",
+          "price3": "1,500",
+          "period3": "per year",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li></ul><p></p><p>Range Fees</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "Gold Pass, Couples",
+          "currency4": "$",
+          "price4": "2,500",
+          "period4": "per year",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li><li class=\"list-group-item\">Cart Fees</li><li class=\"list-group-item\">Range Fees</li><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/11e-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Delta County Membership",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><i>$100 annual fee includes...<br></i></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">One free 18 holes with a cart, followed by every time you come during the year you will receive $10 off the 18 hole fee or $5 off the 9 hole fee</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><i><b>Youth 18 years and under</b></i><br></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">$100 yearly covers your Green Fees and Range Fees</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-13",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {},
+      "components": [
+        {
+          "alias": "purity/components",
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-18",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": true,
+            "color": "#fff",
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-136x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.devilsthumbgolfcourse.net/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"http://www.devilsthumbgolfcourse.net/\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Devil's Thumb Golf Course</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"book-a-tee-time.html\">Book a Tee Time</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"#\">Join our E-Club</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">&nbsp;</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#fff8e0"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1333.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Elite Memberships<br>Exclusive Perks",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Whether you have been golfing your entire life or have just begun to appreciate the game, Devil’s Thumb offers a pass option that suits you. Our beautiful course and friendly staff ensure our pass holders will enjoy bringing guests out for a drink, as well as perfecting their game.</p><p>We encourage you to request a tour of our facility and welcome any questions you may have. For additional information about pricing and our application process, please contact us at (970) 874-6262 or golf@cityofdelta.net. We look forward to hearing from you or seeing you on the course!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-success",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
+          },
+          "title1": "Silver Pass, Singles",
+          "currency1": "$",
+          "price1": "9,00",
+          "period1": "per year",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li></ul><p></p><p>Range Fees</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "Gold Pass, Singles",
+          "currency2": "$",
+          "price2": "1,500",
+          "period2": "peryear",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li><li class=\"list-group-item\">Cart Fees</li><li class=\"list-group-item\">Range Fees</li><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Silver Pass, Couples",
+          "currency3": "$",
+          "price3": "1,500",
+          "period3": "per year",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li></ul><p></p><p>Range Fees</p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "Gold Pass, Couples",
+          "currency4": "$",
+          "price4": "2,500",
+          "period4": "per year",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><i>&nbsp; Included in your membership...</i></li><li class=\"list-group-item\">Green Fees</li><li class=\"list-group-item\">Cart Fees</li><li class=\"list-group-item\">Range Fees</li><li class=\"list-group-item\">&nbsp; &nbsp; Discount on Western Slope Players Card</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/11e-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Delta County Membership",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><i>$100 annual fee includes...<br></i></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">One free 18 holes with a cart, followed by every time you come during the year you will receive $10 off the 18 hole fee or $5 off the 9 hole fee</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><i><b>Youth 18 years and under</b></i><br></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">$100 yearly covers your Green Fees and Range Fees</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15781473-10155051970018690-998623351657342019-n-e-265x176.jpg",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 1rem; line-height: 1.5;\"><i>Devil's Thumb Golf Course</i></span><br><span style=\"font-size: 1rem; line-height: 1.5;\">9900 Devils Thumb Rd</span><br>Delta, CO 81416<br>",
+          "text2": "<strong>Contact Us</strong><br><i>Clubhouse</i><br><span style=\"font-size: 1rem; line-height: 1.5;\">(970) 874-6262</span><br>golf@cityofdelta.net<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "text3": "<strong>Hours</strong><ul><li>8AM - 8:30PM <b>Mon-Fri</b></li><li>8AM - 8:30PM <b>Sat</b></li><li>Closed <b>Sun</b></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2016 - 2017 Devil's Thumb Golf Club</b> | (970) 874-6262 | <b>Proudly designed in Delta, Colorado by <a href=\"http://www.IgniteMX.com\" target=\"_blank\">IgniteMX</a>.</b>"
+        }
+      ]
+    }
+  }
+}
