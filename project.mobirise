@@ -90,12 +90,12 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "title": "Devil's Thumb<br>Golf Course<br>",
           "text": "An 18-hole, prarie-style course designed by Rick Phelps.<br>Located in Delta, the Heart of the Western Colorado.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#testimonials1-1\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-2\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-o\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box1-2\" data-toolbar=\"-mbrBtnMove\">Book a Tee Time</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -275,42 +275,6 @@
           "title4": "Tee Times",
           "caption4": "<i>Book Online</i>",
           "button4": " <a data-app-btn=\"true\" href=\"book-a-tee-time.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Schedule Time</a>"
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-2",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/billionphotos-2000x1333.jpg",
-            "bgColor": "#fff8e0",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"book-a-tee-time.html\" data-toolbar=\"-mbrBtnMove\">Book Online</a>",
-          "title": "Book a Tee Time",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster."
         },
         {
           "items": [
